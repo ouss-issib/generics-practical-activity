@@ -42,5 +42,7 @@ public class MetierProduitImpl implements IMetier<Produit>{
     public void delete(Long id) {
         int index = -1;
         produitList.removeIf(p -> p.getId() == id);
+        System.out.println("Produit supprimé avec success");
+
     }
 }
