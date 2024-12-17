@@ -32,7 +32,7 @@ public class Application {
             System.out.println("1. Afficher la liste des produits.");
             System.out.println("2. Rechercher un produit par son id.");
             System.out.println("3. Ajouter un nouveau produit dans la liste.");
-            System.out.println("4. Supprimer un produit par id.");
+            System.out.println("4. Supprimer un produit par ID.");
             System.out.println("5. Quitter ce programme.");
             choix = checkInputValidation(Integer.class,"Saisir votre choix :" ,"Choix");
 
