@@ -1,4 +1,4 @@
-<h1>GENERICS using JAVA</h1>
+<h1>GENERICS in JAVA</h1>
 
 <h3>1. Afficher la liste des produits.</h3>
 <img src="captures/2.png">
